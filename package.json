@@ -14,7 +14,7 @@
     "chrome-launcher": "^0.10.7",
     "lighthouse": "^5.0.0",
     "meow": "^5.0.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "ora": "^3.4.0",
     "rimraf": "^2.6.3",
     "update-notifier": "^3.0.0"
