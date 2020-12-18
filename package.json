@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "chrome-launcher": "^0.10.7",
-    "lighthouse": "^5.0.0",
+    "lighthouse": "^7.0.0",
     "meow": "^5.0.0",
     "mkdirp": "^0.5.1",
     "ora": "^3.4.0",
